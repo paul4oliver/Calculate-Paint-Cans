@@ -1,4 +1,4 @@
-# Paint
+# Determine the number of gallon paint cans needed to paint a room 
 
 This code calculates the number of gallons of paint needed to paint a room. 
 It prompts the user for room dimensions, calculates the room area, and then calculates the number of gallons of paint needed to paint the room.
